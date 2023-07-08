@@ -1,6 +1,6 @@
 ## Hi, I'm Johnny 👋
 
-I enjoy building thoughtful software/data/ML solutions that add value to my team and broader community.
+I 💜 building thoughtful software/data/ML solutions.
 
 Some fun facts about me 🙈
 - 🔭 I used to be an astronomer. 
