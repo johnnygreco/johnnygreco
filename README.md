@@ -1,6 +1,6 @@
 ## Hi, I'm Johnny 👋
 
-I 💜 building thoughtful software/data/ML solutions.
+I am an applied machine learning scientist. 
 
 Some fun facts about me 🙈
 - 🔭 I used to be an astronomer. 
