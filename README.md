@@ -10,4 +10,4 @@ Some fun facts about me 🙈
 
 <br>
 
-![johnnygreco's Stats](https://github-readme-stats.vercel.app/api?username=johnnygreco&theme=nightowl&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
+![johnnygreco's Stats](https://github-readme-stats.vercel.app/api?username=johnnygreco&include_orgs=true&theme=nightowl&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
