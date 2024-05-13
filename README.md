@@ -7,3 +7,9 @@ Some fun facts about me 🙈
 - 🤘 I once dropped out of college in pursuit of rock stardom.
 - 🍣 I made sushi to support myself during college.
 - 🎰 I was born and raised in Las Vegas (no, I didn't live in a casino).
+
+---
+
+![johnnygreco's Stats](https://github-readme-stats.vercel.app/api?username=johnnygreco&theme=dracula&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
+
+---
